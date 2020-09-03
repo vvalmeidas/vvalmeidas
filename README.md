@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Valmir! ✌️</h1>
-<center>I'm a computer engineering student and currently working on improve my web development habilities!</center>
+<center>I'm a computer engineering student and currently working on improve my web development habilities</center>
 
 ## Tech Stack ✨
 <br>
