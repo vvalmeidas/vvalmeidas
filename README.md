@@ -1,5 +1,3 @@
-### Hi there 
-### Hi there, I'm Valmir!
 <h1 align="center">Hi there, I'm Valmir! ✌️</h1>
 <hr>
 
