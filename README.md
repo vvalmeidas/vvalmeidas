@@ -3,6 +3,7 @@
 
 ## Tech Stack ✨
 <br>
+<center>
 <table>
 <tbody>
 <tr>
@@ -56,10 +57,9 @@
 </td>
 </tr>
 
-
 </tbody>
 </table>
-
+</center>
 
 <!--
 **vvalmeidas/vvalmeidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
