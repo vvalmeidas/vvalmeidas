@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 
+### Hi there, I'm Valmir!
+<h1 align="center">Hi there, I'm Valmir! ✌️</h1>
+<hr>
+
 <!--
 **vvalmeidas/vvalmeidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
